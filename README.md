@@ -6,9 +6,8 @@ This project presents an interactive **HR Analytics Dashboard** built using **Po
 ## Dashboard Preview
 Place your screenshot in the repository as `HR_Analytics_Dashboard.png` and use:
 
-```markdown
+
 ![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
-```
 
 ## Tools & Technologies
 - Power BI
